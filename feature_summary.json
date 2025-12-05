@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "created_at": "2025-12-05T10:40:37.737020",
+    "total_models": 95,
+    "embedding_dimension": 384,
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  "features": {
+    "cost_score": {
+      "mean": 0.05387947772330231,
+      "std": 0.1307103942463116,
+      "min": 0.0,
+      "max": 1.0,
+      "null_count": 9
+    },
+    "popularity_score": {
+      "mean": 0.5181851882622269,
+      "std": 0.21212446515542724,
+      "min": 0.0,
+      "max": 1.0,
+      "null_count": 0
+    },
+    "recency_score": {
+      "mean": 0.5,
+      "std": 0.0,
+      "min": 0.5,
+      "max": 0.5,
+      "null_count": 0
+    },
+    "diversity_score": {
+      "mean": 0.6744019138755982,
+      "std": 0.17619889091892676,
+      "min": 0.5,
+      "max": 0.9886363636363636,
+      "null_count": 0
+    }
+  },
+  "text_stats": {
+    "mean_text_length": 457.41052631578947,
+    "empty_text_count": 0
+  }
+}

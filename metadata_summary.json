@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "fetch_date": "2025-12-04T15:18:31.215500",
+    "total_models": 95,
+    "execution_mode": "light"
+  },
+  "statistics": {
+    "mean_downloads": 1806482.0526315789,
+    "median_downloads": 947441.0,
+    "mean_likes": 1021.2736842105263,
+    "median_likes": 474.0,
+    "unique_authors": 34,
+    "unique_architectures": 9,
+    "unique_licenses": 10
+  },
+  "completeness": {
+    "model_id": 100.0,
+    "author": 100.0,
+    "downloads": 100.0,
+    "likes": 100.0,
+    "tags": 100.0,
+    "pipeline_tag": 100.0,
+    "library_name": 100.0,
+    "created_at": 100.0,
+    "last_modified": 0.0,
+    "private": 100.0,
+    "gated": 0.0,
+    "model_type": 92.63157894736842,
+    "license": 90.52631578947368
+  },
+  "validation": {
+    "duplicates": 0,
+    "invalid_ids": 0,
+    "passed": true
+  }
+}
